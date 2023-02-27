@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: gainsboro;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+figure {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+
+figure figcaption {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+section h3 {
+    margin: 50px auto;
+    text-align: center;
+}
+
+section ul {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+section blockquote p, section blockquote cite{
+    display: block;
+    max-width: 550px;
+    text-align: left;
+    font-style: italic;
+    margin: auto auto 20px;
+}
+
+ul > li {
+    margin-bottom: 20px;
+}
