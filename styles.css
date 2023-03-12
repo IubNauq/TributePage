@@ -59,4 +59,5 @@ section blockquote p, section blockquote cite{
 
 ul > li {
     margin-bottom: 20px;
+    text-align: justify;
 }
